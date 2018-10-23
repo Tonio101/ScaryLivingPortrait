@@ -4,7 +4,7 @@ RaspberryPi Halloween Project<br/>
 ## Parts needed:
 - Raspberry Pi 2|3<br/>
 - Raspberry Pi Camera module v2|v3<br/>
-- Unliving portrait video(s): [AtmostFX]: https://atmosfx.com/collections/halloween/products/unliving-portraits<br/>
+- Unliving portrait video(s): [AtmostFX](https://atmosfx.com/collections/halloween/products/unliving-portraits)<br/>
 - Spare TV or monitor<br/>
 - Picture Frame (I created mine using wall molding)<br/>
 - Speaker(s)<br/>
